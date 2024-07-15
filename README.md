@@ -5,7 +5,7 @@
 ## **Description**
 **This Python script checks the eligibility of a wallet address against a list stored in a JSON file.**
 <br>It verifies if the provided address exists in the list and returns the corresponding allocation amount if eligible.
-<br>This code was created to verify my eligibility for an airdrop from the crypto project [NOIS]([https://twitter.com/nois_project](https://x.com/NoisRNG/status/1745415267747008765)).
+<br>This code was created to verify my eligibility for an airdrop from the crypto project [NOIS](https://x.com/NoisRNG/status/1745415267747008765).
 
 ## **Features**
 - **Eligibility Check** : Verifies if a wallet address exists in the eligibility list.
